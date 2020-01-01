@@ -1,0 +1,78 @@
+.signup_page_lhs{
+  position: absolute;
+  width: 30%;
+  height: 100%;
+  background: #DCFEFE;
+}
+
+.signup_page_rhs{
+  position: absolute;
+  width: 70%;
+  height: 100%;
+  left: 30%;
+  background: #BBE0F4;
+}
+
+.signup_form_field_boxes{
+  position: absolute;
+  width: 748px;
+  height: 75px;
+  left: 651px;
+  background: #FFFFFF;
+}
+
+.signup_button{
+  position: absolute;
+  width: 236px;
+  height: 75px;
+  left: 1163px;
+  /* top: 910px; */
+  background: #000000;
+}
+
+.signup_page_lhs_text_block{
+  position: absolute;
+  width: 70%;
+  height: 80px;
+  left: 15%;
+  top: 45%;
+}
+
+.signup_page_lhs_text{
+  font-family: Prociono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 80px;
+  color: #BE3232;
+}
+
+.signup_page_rhs_text{
+  font-family: Prociono;
+  font-style: normal;
+  font-weight: normal;
+  color: whitesmoke;
+}
+
+.signup_page_rhs_button{
+  width: 256px;
+  height: 50px;
+  border: hidden;
+  margin: 10px; 
+  align-items: center;
+  /* border-radius: 10px; */
+}
+
+.signup_page_rhs_table{
+  position: relative;
+  left: 20%;
+  right: 20%;
+}
+
+.signin_button{
+  width: 256px;
+  height: 50px;
+  border: hidden;
+  align-items: center;
+  background: black;
+}
